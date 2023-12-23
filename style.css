@@ -1,0 +1,31 @@
+.body{
+
+    background-color: white;
+}
+.h1 {
+    font-size: 40px;
+    text-shadow: 2px 2px whitesmoke;
+}
+.h2 {
+    font-size: 40px;
+    text-shadow: 2px 2px whitesmoke;
+}
+.pre{
+    font-size: large;
+    text-shadow: 2px 2px whitesmoke;
+}
+
+.center-container {
+    text-align: center;
+}
+.center{
+    text-align: center;
+}
+img{
+    width: 300px;
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
